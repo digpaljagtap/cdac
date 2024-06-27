@@ -1,4 +1,4 @@
-number=20
+num=20
 if num == 10:
     print("Number is 10")
 elif num==100:
